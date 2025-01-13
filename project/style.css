@@ -1,0 +1,46 @@
+body{
+    font-family: "Host Grotesk", serif;
+    margin: 0;
+    background-color: #6b54a2;
+}
+h1, h2{
+    font-family: "EB Garamond", serif;
+    color: white;
+}
+header{
+    background-image: url("Images/night-4489561_1280.jpg");
+    background-repeat: no-repeat;
+    background-position: 25% 70%;
+    background-size:cover;
+    height: 300px;
+    padding: 2em;
+}
+header div{
+    background-color: white;
+    padding: 1em;
+    max-width: 98%;
+    width: 30em;
+}
+figure{
+    margin: 0.5em;
+    border-color: #9279bb;
+    border-width: 8px;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 0.5em;
+    width: 400px;;
+    background-color: #8468c4;
+    float: left;
+}
+footer{
+    clear: both;
+}
+a:link{
+    color:#a295f1;
+}
+a:visited{
+    color:#22153e
+}
+a:hover{
+    color:#91525d
+}
