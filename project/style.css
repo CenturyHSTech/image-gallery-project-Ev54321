@@ -13,6 +13,9 @@ header{
     background-position: 25% 70%;
     background-size:cover;
     height: 300px;
+    
+}
+header{
     padding: 2em;
 }
 header div{
